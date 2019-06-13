@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1560426780636,
+  "timestamp": 1560427519509,
   "index": "/progressive-web-app/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/progressive-web-app/es2015-polyfills.bda95d5896422d031328.js",
         "/progressive-web-app/favicon.ico",
         "/progressive-web-app/index.html",
-        "/progressive-web-app/main.29c8ac82e70eb840d129.js",
+        "/progressive-web-app/main.2f91752ad1d90e1a62c6.js",
         "/progressive-web-app/polyfills.8bbb231b43165d65d357.js",
         "/progressive-web-app/runtime.c93e64ceb650e27c69e6.js",
         "/progressive-web-app/styles.8b5ad902a7b22ef44b34.css"
@@ -51,8 +51,8 @@
     "/progressive-web-app/assets/images/real-sun.png": "738b9b1ffb3356461b7f6d2c1b80a27abe4e36ce",
     "/progressive-web-app/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
     "/progressive-web-app/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/progressive-web-app/index.html": "6893c59c0948fd1ca98a21241232ae8e6552ad16",
-    "/progressive-web-app/main.29c8ac82e70eb840d129.js": "f86bee52cdcb0e314c7f0a0c1ec4b7ada15af673",
+    "/progressive-web-app/index.html": "00c2228cf3e7487995596081e481579b0e03eab9",
+    "/progressive-web-app/main.2f91752ad1d90e1a62c6.js": "08f2c62ed769111e0356d7e4c6ae57db6c0c4529",
     "/progressive-web-app/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/progressive-web-app/runtime.c93e64ceb650e27c69e6.js": "42fd9cd1f87b623c3f69835cdba878cd6303d5e8",
     "/progressive-web-app/styles.8b5ad902a7b22ef44b34.css": "3fda54a9a48af7ed4d9a3a50e0d37d84371e4ce3"
